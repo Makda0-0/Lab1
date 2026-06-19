@@ -3,7 +3,7 @@
 # 📋 SRE-Lab1
 ### AASTU Integrated Grievance Resolution and Engagement System (AIGRES)
 
-*Requirements Engineering Lab — Software Requirements Engineering [SWEG3104]*
+*Lab 1: Introduction to Requirements Engineering Tools*
 
 </div>
 
@@ -55,7 +55,6 @@ SRE-Lab1/
 
 <div align="center">
 
-**Course:** Software Requirements Engineering [SWEG3104] &nbsp;|&nbsp; **Department:** Software Engineering &nbsp;|&nbsp; **College:** Engineering
-**Institution:** Addis Ababa Science and Technology University (AASTU)
+
 
 </div>
