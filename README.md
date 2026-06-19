@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 About This Repository
+##  About This Repository
 
 This repository contains the Requirements Engineering artifacts produced for **AIGRES** — a proposed digital platform designed to replace AASTU's manual, paper-based student grievance handling process with a centralized, transparent, and auditable system.
 
@@ -33,13 +33,13 @@ SRE-Lab1/
 
 | Folder | Contents | Tool Used |
 |:--|:--|:--|
-| 📄 `Documents` | Software Requirements Specification | Microsoft Word |
-| 🧭 `Diagrams` | Use Case Diagram (Student, Grievance Officer, Admin) | Draw.io |
-| 🧩 `Models` | Class Diagram (domain model & relationships) | StarUML |
+| `Documents` | Software Requirements Specification | Microsoft Word |
+|  `Diagrams` | Use Case Diagram (Student, Grievance Officer, Admin) | Draw.io |
+|  `Models` | Class Diagram (domain model & relationships) | StarUML |
 
 ---
 
-## 👥 Group Members — Section D
+## Group Members — Section D
 
 | # | Name | ID Number |
 |:-:|:--|:-:|
